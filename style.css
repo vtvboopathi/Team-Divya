@@ -86,6 +86,7 @@ nav .menu{
   background-size: fill;
   background-position: center;
   position: relative;
+  background-color: #fff;
 }
 
 .img::before{
@@ -93,7 +94,7 @@ nav .menu{
   position: absolute;
   height: 100%;
   width: 100%;
-  background: rgba(0, 0, 0, 0.4);
+  /* background: rgba(0, 0, 0, 0.4); */
 }
 
 .center{
@@ -203,7 +204,7 @@ nav .menu{
 .right{
   width: 80%;
   height: auto;
-  background-color: gray;
+  background-color: #fff;
   display: flex;
   align-items: center;
   justify-content: center;
